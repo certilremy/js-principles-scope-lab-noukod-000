@@ -4,4 +4,3 @@ function upperCaseCustomerName()
 {
    customerName = .toUpperCase();
 }
-
