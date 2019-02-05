@@ -1,7 +1,7 @@
 // Write your solution in this file!
 var customerName = 'bob' ;
 
-let BestCustomer
+let BestCustomer;
 
 function upperCaseCustomerName()
 {
